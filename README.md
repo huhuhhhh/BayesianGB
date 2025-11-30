@@ -2,7 +2,7 @@ Bayesian optimization for predicting grain-boundary segregation in high-entropy 
 
 This repository contains the data and code for our recent work:
 
-C. Hu and J. Luo, Data-driven prediction of grain boundary segregation and disordering in high-entropy alloys in a 5D space, Mater. Horiz., 2022,9, 1023-1035. DOI: https://doi.org/10.1039/D1MH01204E (Shimanta please update this)
+S. Das, N. Oyeniran, J. Walter, A. Gesch and C. Hu, Bayesian Opimization of Grain-Boundary Segregation in High-Entropy Alloys
 
 The current repository demonstrates the implementation of the scalarization-based Bayesian optimization (SBO) to identify grain boundary (GB) segregation behavior in CrMnFeCoNi high-entropy alloys (HEAs). It contains two Jupyter notebooks:
 1. Max_Segregation.ipynb – finds compositions/temperature that maximize Cr & Mn segregation and minimize Co, Ni, Fe segregation.
